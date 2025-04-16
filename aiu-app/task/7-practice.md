@@ -322,3 +322,6 @@ const styles = StyleSheet.create({
 });
 
 export default ImageListApp;
+
+
+можно запустить в https://codesandbox.io/templates/react-native-expo без локальных проблем
